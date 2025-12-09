@@ -7,6 +7,7 @@
 
 ### need to be able to add this script on crontab to auto check and auto block.    
 
+# make sure you add your stuff into dnsmasq conf files     
 
 ## Credit:  
 https://github.com/kinnay/NintendoClients
